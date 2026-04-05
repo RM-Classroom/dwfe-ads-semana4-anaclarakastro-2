@@ -1,26 +1,16 @@
-# Trabalho Prático - Semana 04
+Nome: Ana Clara
+Matrícula: 911564
 
-Dessa vez, vamos escolher uma proposta de projeto para trabalhar.
+Proposta escolhida:
+Busca de produtos por preço e avaliação
 
-Nessa atividade, você deverá montar a página inicial do projeto escolhido, a organização do HTML aplicando semântica correta e uso aprimorado do CSS. Leia o enunciado completo no Canvas para mais detalhes.
+Descrição:
+O projeto consiste em um site que reúne produtos de diversas lojas, permitindo ao usuário comparar preços e avaliações para encontrar a melhor opção de compra.
 
-**IMPORTANTE:** Você deve trabalhar e alterar apenas arquivos dentro da pasta **`public`**. Deixe todos os demais arquivos e pastas desse repositório inalterados. **PRESTE MUITA ATENÇÃO NISSO.**
+Wireframe:
+<img src = "wireframe.jpg">
 
-## Informações Gerais
+Print da home-page:
+<img src = "homepage.png">
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
-
-
-## Print do(s) wireframe(s) criado
-> Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
-
-<<  COLOQUE A IMAGEM AQUI >>
-
-
-
-## Print da home-page criada
-
-<<  COLOQUE A IMAGEM AQUI >>
+*imagens anexadas junto com os arquivos
